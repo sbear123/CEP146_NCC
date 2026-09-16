@@ -1,1 +1,23 @@
-bhubhubutnbfvdcsxb
+Building a simple website - Build a simple business website with text, images, and contact forms
+
+Which type of IDE would be most suitable?
+ - VSCode
+
+What additional tools would be needed?
+- Web Browsers, Github
+- Langauges: HTML, CSS, JavaScript
+
+Hardware requirements
+- RAM: 16 GB
+- CPU: Intel Core i5, AMD Ryzen 5, or a quad-core processor (Mac)
+- Storage: 1 TB SSD
+- Peripherals: Keyboard, mouse/trackpad, webcam, and microphone
+
+Team collaboration needs
+- GitHub to share and manage the project
+- Separate branches for each team member
+- Pull requests to review and merge changes
+
+Estimated setup time and complexity
+- Setup time will be around 30–60 minutes and Complexity is Low
+- it only needs basic web development tools and languages.
